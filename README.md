@@ -6,7 +6,8 @@ I wanted to solve this problem with the help of the ChatGPT API and use Telegram
 
 ##
 Planned upgrades:
-- Edit the monitor during runtime
-- Add more cryptocurrency name
-- Edit the missing cryptocurrency name
+- Run on server with flask
+- Convert to asynchronous programming with asyncio
+- Add more Text-Davinci-003 features
+
 
